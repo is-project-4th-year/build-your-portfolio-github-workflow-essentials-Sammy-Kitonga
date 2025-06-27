@@ -33,66 +33,42 @@ Include screenshots that demonstrate how you used GitHub to manage your project.
 
 - Screenshot showing your milestone(s) and the issues linked to it.
 
-```markdown
 ![Milestone](images/Milestone.png)
-```
 
-```markdown
 ![Closed Issues](images/Closed_Issues1.png)
-```
 
-```markdown
 ![Closed Issues](images/Closed_Issues2.png)
-```
 
-```markdown
 ![Open Issues](images/Open_Issues.png)
-```
 
 ### B. Project Board
 
 - Screenshot of your GitHub Project Board with issues organized into columns (e.g., To Do, In Progress, Done).
 
-```markdown
 ![Project board](images/Project_Board.png)
-```
 
 ### C. Branching
 
 - Screenshot showing your branch list with meaningful naming.
 
-```markdown
 ![Branches](images/Branches.png)
-```
 
 ### D. Pull Requests
 
 - Screenshot of a pull request that’s either open or merged and linked to a related issue.
 
-```markdown
 ![Pull requests](images/PR1.png)
-```
 
-```markdown
 ![Pull requests](images/PR2.png)
-```
 
 ### E. Merge Conflict Resolution
 
 - Screenshot of a resolved merge conflict (in a pull request, commit history, or your local terminal/GitHub Desktop).
 
-```markdown
 ![Unresolved merge request](images/unresolved_merge_conflict.png)
-```
 
-```markdown
 ![Merge editor](images/Merge_editor_1.png)
-```
 
-```markdown
 ![Merge editor](images/Merge_editor_2.png)
-```
 
-```markdown
 ![Resolved merge request](images/solved_merge_conflict.png)
-```
