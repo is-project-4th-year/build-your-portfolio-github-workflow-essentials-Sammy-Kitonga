@@ -38,7 +38,11 @@ Include screenshots that demonstrate how you used GitHub to manage your project.
 ```
 
 ```markdown
-![Closed Issues](images/Closed_Issues.png)
+![Closed Issues](images/Closed_Issues1.png)
+```
+
+```markdown
+![Closed Issues](images/Closed_Issues2.png)
 ```
 
 ```markdown
@@ -56,6 +60,10 @@ Include screenshots that demonstrate how you used GitHub to manage your project.
 ### C. Branching
 
 - Screenshot showing your branch list with meaningful naming.
+
+```markdown
+![Branches](images/Branches.png)
+```
 
 ### D. Pull Requests
 
