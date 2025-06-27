@@ -9,7 +9,6 @@
 ## 2. Deployed Portfolio Link
 
 - **GitHub Pages URL**:  
-  _(Provide the live link to your deployed portfolio website)_
   https://is-project-4th-year.github.io/build-your-portfolio-github-workflow-essentials-Sammy-Kitonga/
 
 ## 3. Learnings from the Git Crash Program
@@ -57,9 +56,13 @@ Include screenshots that demonstrate how you used GitHub to manage your project.
 
 - Screenshot of a pull request that’s either open or merged and linked to a related issue.
 
-![Pull requests](images/PR1.png)
+- Below is a Pull request linked to issue #19
 
-![Pull requests](images/PR2.png)
+![Pull requests](images/PR_pt1.png)
+
+![Pull requests](images/PR_pt2.png)
+
+![Pull requests](images/PR_pt3.png)
 
 ### E. Merge Conflict Resolution
 
